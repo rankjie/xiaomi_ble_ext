@@ -1,7 +1,7 @@
 {
   "domain": "xiaomi_ble_ext",
   "name": "Xiaomi BLE Extended",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bluetooth": [
     {
       "connectable": false,
